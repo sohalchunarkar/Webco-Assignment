@@ -28,6 +28,6 @@ This project contains:
 2. Fill out the form and click Submit
 3. JavaScript will validate the input and show a message
 
-4. **Run `form_script.py`** in terminal:
+4. **Run `script.py`** in terminal:
    ```bash
    python form_script.py
